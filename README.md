@@ -171,8 +171,8 @@ The main game follows this structure:
 ## Development Notes
 
 ### Created by
-- **Jonathon McElhaney**: Game design, graphics, menu systems, question implementation
-- **Alex Yang**: Puzzle game logic, physics/collision system, keyboard input handling
+- **Jonathon Yang**: Game design, graphics, menu/endgame, question implementation
+- **Alex McElhaney**: Puzzle game logic, physics/collision system, keyboard input handling
 
 ### Asset Attribution
 - Pixel art sprites: Custom creation with retro gaming aesthetic
