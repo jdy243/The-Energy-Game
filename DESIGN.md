@@ -404,5 +404,5 @@ Questions and answers can be easily modified in the question data structs withou
 
 ---
 
-**Design Document Last Updated**: 2024
-**Game Version**: 1.0.0
+**Design Document Last Updated**: 2026
+**Game Version**: 3.0.0

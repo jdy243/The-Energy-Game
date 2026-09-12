@@ -15,7 +15,7 @@ An interactive educational game built with MATLAB that teaches players about env
   
 - **Interactive Quiz Gameplay**: Multiple-choice questions with immediate feedback
 - **Puzzle Mechanics**: Players use WASD controls to push soap bars across game levels to clean environmental spills
-- **Pixel Art Graphics**: Custom sprite-based visuals created with retro game engine aesthetics
+- **Pixel Art Graphics**: Custom sprite-based visuals created with retro game engine aesthetics (Generated using Google Gemini, Cited)
 - **Character Dialogue**: Environmental antagonist provides context and hints through narrative
 
 ### Technical Stack
@@ -171,8 +171,8 @@ The main game follows this structure:
 ## Development Notes
 
 ### Created by
-- **Jonathon McElhaney**: Game design, graphics, menu systems, question implementation
-- **Alex Yang**: Puzzle game logic, physics/collision system, keyboard input handling
+- **Jonathon Yang**: Game design, graphics, menu/endgame, question implementation
+- **Alex McElhaney**: Puzzle game logic, physics/collision system, keyboard input handling
 
 ### Asset Attribution
 - Pixel art sprites: Custom creation with retro gaming aesthetic
@@ -229,8 +229,6 @@ We welcome contributions! Please follow these guidelines:
 
 For questions, suggestions, or issues:
 - Open an issue on GitHub
-- Contact the development team through the repository
+- Contact me and Alex through the repository
 
 ---
-
-**Made with ❤️ for environmental education**

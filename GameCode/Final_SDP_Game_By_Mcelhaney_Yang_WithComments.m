@@ -5,11 +5,8 @@ clear; %Clear all variables
 clc; %Clear the command window
 close all; % Close all opened figures
 
-% note to TAs, Jonathon's portion of the game is mostly the custom sprites
-% and graphics, so the menu screens, as well as all of the questions, and
-% taking in mouse input.
-% Alex's portion is the puzzle game, with all of the logic attached to it,
-% including taking in keyboard input.
+% Note to TAs, Jonathan's portion of the game is mostly the custom sprites and graphics, so the menu screens, as well as all of the questions, and taking in mouse/Keyboard input.
+% Alex's portion is the puzzle game, with all of the logic attached to it, including taking in keyboard input.
 
 gameContinue = true; % gameContinue is the variable that controls the game loop; as long as it is true, the menu page will continue to be displayed.
 
@@ -190,7 +187,7 @@ colleft = 0;
 %=========================================================================================================
                                 %Chapter 1 / 3
 %=========================================================================================================
-    % jonathan
+    %Jonathan
     %The code for the Chapter 1 Page
     %The sprite sheet is 1024*1024, so 1024/5=204
     %magnification = 8
@@ -1182,7 +1179,7 @@ function success = userPlayChapterLevel(SDPgame, correctChoice, chapterName) % c
             %use the function ismember to check if the user clicked on the right box, represented by [r, c]
             if ismember([r, c], correctChoice, 'rows')
                 count = count + 1; %If the user clicked on the right answer, the count will +1
-                title('Correct👍! Find one more☺!');
+                title('Correct👍! Find one more!');
             else
                 title(['Sorry, your choice is incorrect in ' chapterName '. You have to replay the game😣.']);
                 pause(4);

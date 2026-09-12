@@ -321,9 +321,8 @@ After successful installation:
 1. Read the [README.md](../README.md) for gameplay instructions
 2. Check [DESIGN.md](DESIGN.md) for technical details
 3. Look at example scripts in `/examples/` folder
-4. Start playing and enjoy! 🎮
+4. Enjoy! 
 
 ---
 
-**Last Updated**: 2024
-**Guide Version**: 1.0
+**Last Updated**: Sep 2026
