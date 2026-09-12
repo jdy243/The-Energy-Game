@@ -196,4 +196,4 @@ Contributors will be recognized in:
 
 ---
 
-Thank you for helping make Energy Game: Clean vs Unclean better! 🌍✨
+Thank you for helping make Energy Game: Clean vs Unclean better! 
