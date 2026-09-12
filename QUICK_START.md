@@ -28,7 +28,7 @@ addpath(genpath(pwd))
 Final_SDP_Game_By_Mcelhaney_Yang_WithComments
 ```
 
-**That's it!** 🎮
+**That's it!** 
 
 ## 4. Play
 
@@ -49,17 +49,17 @@ Final_SDP_Game_By_Mcelhaney_Yang_WithComments
 
 ## Game Chapters
 
-### Chapter 1: Coal ⚫
+### Chapter 1: Coal 
 - Learn how coal forms
 - Understand environmental impact (acid rain, CO₂)
 - Clean up industrial spills
 
-### Chapter 2: Petroleum 🛢️
+### Chapter 2: Petroleum 
 - Discover petroleum uses
 - Explore environmental consequences (greenhouse gases)
 - Clean an oil rig spill
 
-### Chapter 3: Wind Energy 💨
+### Chapter 3: Wind Energy 
 - Learn how wind turbines work
 - Evaluate renewable energy tradeoffs
 - Final cleanup challenge
@@ -75,10 +75,10 @@ Final_SDP_Game_By_Mcelhaney_Yang_WithComments
 
 ## More Information
 
-- 📖 [Full Documentation](README.md)
-- 🏗️ [Game Design](docs/DESIGN.md)
-- 🔧 [Technical Setup](docs/SETUP_GUIDE.md)
-- 💬 [Contributing Guide](CONTRIBUTING.md)
+- [Full Documentation](README.md)
+- [Game Design](docs/DESIGN.md)
+- [Technical Setup](docs/SETUP_GUIDE.md)
+- [Contributing Guide](CONTRIBUTING.md)
 
 ## Need Help?
 
@@ -88,6 +88,6 @@ Final_SDP_Game_By_Mcelhaney_Yang_WithComments
 
 ---
 
-**Enjoy the game!** 🌍✨
+**Enjoy the game!**
 
 Have feedback? [Share your thoughts](https://github.com/yourusername/Energy-Game-Clean-vs-Unclean/discussions)
