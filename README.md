@@ -229,8 +229,6 @@ We welcome contributions! Please follow these guidelines:
 
 For questions, suggestions, or issues:
 - Open an issue on GitHub
-- Contact the development team through the repository
+- Contact me and Alex through the repository
 
 ---
-
-**Made with ❤️ for environmental education**
