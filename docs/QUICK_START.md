@@ -7,7 +7,7 @@ Get playing in 5 minutes!
 - [x] MATLAB R2016b or later
 - [x] Image Processing Toolbox (check in MATLAB: `ver('images')`)
 
-Don't have it? [Full Setup Guide](docs/SETUP_GUIDE.md)
+Don't have it? [Full Setup Guide](dSETUP_GUIDE.md)
 
 ## 2. Clone Repository
 
@@ -16,7 +16,6 @@ git clone https://github.com/yourusername/Energy-Game-Clean-vs-Unclean.git
 cd Energy-Game-Clean-vs-Unclean
 ```
 
-Or [Download as ZIP](https://github.com/yourusername/Energy-Game-Clean-vs-Unclean/archive/refs/heads/main.zip)
 
 ## 3. Launch Game
 
@@ -68,7 +67,7 @@ Final_SDP_Game_By_Mcelhaney_Yang_WithComments
 
 | Problem | Solution |
 |---------|----------|
-| Game won't start | [Setup Guide](docs/SETUP_GUIDE.md) → Troubleshooting |
+| Game won't start | [Setup Guide](SETUP_GUIDE.md) → Troubleshooting |
 | Sprites not showing | Re-download, check `assets/sprites/` folder |
 | Input not working | Click game window to focus, restart MATLAB |
 | MATLAB complains about missing files | Run `addpath(genpath(pwd))` |
@@ -82,9 +81,7 @@ Final_SDP_Game_By_Mcelhaney_Yang_WithComments
 
 ## Need Help?
 
-1. Check [FAQ](docs/SETUP_GUIDE.md#troubleshooting)
-2. Search [GitHub Issues](https://github.com/yourusername/Energy-Game-Clean-vs-Unclean/issues)
-3. Open a new [Bug Report](https://github.com/yourusername/Energy-Game-Clean-vs-Unclean/issues/new?template=bug_report.md)
+1. Check [FAQ](SETUP_GUIDE.md#troubleshooting)
 
 ---
 
