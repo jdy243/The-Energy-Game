@@ -162,12 +162,10 @@ The main game follows this structure:
 
 ### Future Improvements
 
-- [ ] Add audio/sound effects
-- [ ] Implement difficulty settings
-- [ ] Add more levels and questions
-- [ ] Create level editor tool
-- [ ] Add achievements/scoring system
-- [ ] Port to other engines (Unity, Godot, etc.)
+- Add audio/sound effects
+- Implement difficulty settings
+- Add more levels and questions
+- Add achievements/scoring system
 
 ## License
 
