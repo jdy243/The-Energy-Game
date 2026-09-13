@@ -183,9 +183,9 @@ We welcome contributions! Please follow these guidelines:
 
 ## Documentation
 
-- See [docs/DESIGN.md](docs/DESIGN.md) for detailed game design documentation
-- See [docs/SDP_Notebook_Group_L_AU_25.pdf](docs/SDP_Notebook_Group_L_AU_25.pdf) for project notes
-- See [docs/SDP_Game.pdf](docs/SDP_Game.pdf) for additional game information
+- See [docs/DESIGN.md](DESIGN.md) for detailed game design documentation
+- See [docs/SDP_Notebook_Group_L_AU_25.pdf](SDP_Notebook_Group_L_AU_25.pdf) for project notes
+- See [docs/SDP_Game.pdf](SDP_Game.pdf) for additional game information
 
 ## Troubleshooting
 
