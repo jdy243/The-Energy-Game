@@ -1,6 +1,16 @@
 # Energy Game: Clean vs Unclean
 
-An interactive educational game built with MATLAB that teaches players about environmental impacts of different energy sources through engaging gameplay and quiz scenarios.
+An interactive educational game built with MATLAB that teaches players about environmental impacts of different energy sources through engaging gameplay and quiz scenarios. 
+
+Nominated & competed at the Ohio State Fundamentals of Engineering Design Showcase (Fall 2025)
+
+<img width="3182" height="2384" alt="FEAU25ShowcaseCandidsArtboard 1 copy 10-100" src="https://github.com/user-attachments/assets/2c1b4136-0a04-44f3-a1df-38810d8b2ca9" />
+
+Showcase Poster
+
+<img width="434" height="565" alt="image" src="https://github.com/user-attachments/assets/5e628177-a9eb-4e99-af6d-96534d6f1b27" />
+
+
 
 ## Overview
 
