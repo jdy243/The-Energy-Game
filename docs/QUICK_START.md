@@ -7,7 +7,7 @@ Get playing in 5 minutes!
 - [x] MATLAB R2016b or later
 - [x] Image Processing Toolbox (check in MATLAB: `ver('images')`)
 
-Don't have it? [Full Setup Guide](dSETUP_GUIDE.md)
+Don't have it? [Full Setup Guide](SETUP_GUIDE.md)
 
 ## 2. Clone Repository
 
