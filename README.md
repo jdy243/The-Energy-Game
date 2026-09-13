@@ -37,37 +37,6 @@ An interactive educational game built with MATLAB that teaches players about env
 - **Game Framework**: Object-oriented design with MATLAB class system
 - **Input Handling**: Keyboard and mouse input support
 
-## Project Structure
-
-```
-Energy-Game-Clean-vs-Unclean/
-├── README.md                                    # This file
-├── LICENSE                                      # MIT License
-├── .gitignore
-├── src/
-│   ├── Final_SDP_Game_By_Mcelhaney_Yang_WithComments.m
-│   ├── simpleGameEngine.m                      # Core game engine class
-│   ├── SDP_MenuEnd_AND_GameScene.m             # Menu and scene logic
-│   └── SDP_Menu_Page.m                         # Menu page implementation
-├── levels/
-│   ├── SDP_MenuEnd_AND_GameScene.m             # Level scene definitions
-│   └── Mathslime.m                             # Example game mechanics
-├── assets/
-│   ├── sprites/
-│   │   ├── Menu.png                            # Menu sprite sheet
-│   │   ├── Question_1_Page.png                 # Chapter 1 UI
-│   │   ├── Question_2_page.png                 # Chapter 2 UI
-│   │   ├── Question_3_page.png                 # Chapter 3 UI
-│   │   ├── Endgame_Background.png              # End screen
-│   │   └── retro_pack.png                      # Game sprites
-│   └── audio/                                  # (Future audio assets)
-├── docs/
-│   ├── SDP_Notebook_Group_L_AU_25.pdf         # Project documentation
-│   ├── SDP_Game.pdf                           # Game design document
-│   └── DESIGN.md                              # Design notes
-└── examples/
-    ├── example_script.m                       # Usage examples
-    └── SDP_Preview.m                          # Game preview/demo
 ```
 
 ## Getting Started
