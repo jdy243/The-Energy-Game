@@ -76,8 +76,8 @@ Final_SDP_Game_By_Mcelhaney_Yang_WithComments
 ## More Information
 
 - [Full Documentation](README.md)
-- [Game Design](docs/DESIGN.md)
-- [Technical Setup](docs/SETUP_GUIDE.md)
+- [Game Design](DESIGN.md)
+- [Technical Setup](SETUP_GUIDE.md)
 - [Contributing Guide](CONTRIBUTING.md)
 
 ## Need Help?
