@@ -37,8 +37,6 @@ An interactive educational game built with MATLAB that teaches players about env
 - **Game Framework**: Object-oriented design with MATLAB class system
 - **Input Handling**: Keyboard and mouse input support
 
-```
-
 ## Getting Started
 
 ### Prerequisites
