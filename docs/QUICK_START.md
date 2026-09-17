@@ -2,7 +2,7 @@
 
 Get playing in 5 minutes!
 
-## 1. Prerequisites ✓
+## 1. Prerequisites
 
 - [x] MATLAB R2016b or later
 - [x] Image Processing Toolbox (check in MATLAB: `ver('images')`)
@@ -16,7 +16,6 @@ git clone https://github.com/yourusername/Energy-Game-Clean-vs-Unclean.git
 cd Energy-Game-Clean-vs-Unclean
 ```
 
-
 ## 3. Launch Game
 
 **In MATLAB:**
@@ -26,8 +25,6 @@ cd Energy-Game-Clean-vs-Unclean
 addpath(genpath(pwd))
 Final_SDP_Game_By_Mcelhaney_Yang_WithComments
 ```
-
-**That's it!** 
 
 ## 4. Play
 
