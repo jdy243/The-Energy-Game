@@ -295,8 +295,8 @@ Install from MATLAB's Add-On Manager.
 If you encounter issues:
 
 1. **Check this guide** for common solutions
-2. **Check GitHub Issues** - your problem may be documented
-3. **Search online** - many MATLAB/game development issues are community-documented
+2. **Check GitHub Issues**: your problem may already be documented there
+3. **Search online**: many MATLAB and game-development issues are documented by the community
 4. **File an Issue** on GitHub with:
    - MATLAB version
    - Operating system
