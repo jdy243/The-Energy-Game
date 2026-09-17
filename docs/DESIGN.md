@@ -86,7 +86,7 @@ END
 - Multiple choice keeps learning linear and focused
 - Immediate feedback aids learning
 - Three questions per energy source ensures comprehensive coverage
-- Player must get questions right - reinforces learning
+- Getting questions right reinforces the material
 
 ### Puzzle Mechanic
 
@@ -121,7 +121,7 @@ The game has implicit difficulty progression:
 2. **Chapter 2**: More complex questions, medium puzzle  
 3. **Chapter 3**: Challenging concept questions, complex puzzle
 
-Players can retry as many times as needed - no failure penalty, only learning opportunity.
+Players can retry as many times as needed, with no penalty for a wrong answer.
 
 ## Technical Architecture
 
@@ -314,7 +314,7 @@ The game uses several learning principles:
 
 All questions and answers are factually accurate regarding:
 - Energy science (formation, conversion, use)
-- Environmental impact (confirmed through scientific literature)
+- Environmental impact
 - Current energy technology
 
 ## Performance Considerations
