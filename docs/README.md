@@ -89,9 +89,9 @@ Final_SDP_Game_By_Mcelhaney_Yang_WithComments
 | A | Move left |
 | S | Move down |
 | D | Move right |
-| Mouse Click | Select menu/quiz options |
+| Mouse Click | Select choice/quit/replay options |
 | Mouse Click | Select multiple-choice answers |
-| ESC | (In some modes) Pause/exit |
+| ESC | (Only Available in Menu/Endgame) exit |
 
 ## Game Design
 
