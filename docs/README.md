@@ -4,7 +4,7 @@ An interactive educational game built with MATLAB that teaches players about env
 
 <div align="center">
   <img width="3182" height="2384" alt="FEAU25ShowcaseCandidsArtboard 1 copy 10-100" src="https://github.com/user-attachments/assets/2c1b4136-0a04-44f3-a1df-38810d8b2ca9" />
-  <p><em>Photo from the Showcase</em></p>
+  <p><em>Photo from the Showcase, December 11, 2025</em></p>
 </div>
 
 <div align="center">
