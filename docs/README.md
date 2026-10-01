@@ -150,7 +150,7 @@ The main game follows this structure:
 ## Development Notes
 
 ### Created by
-- **Jonathon Yang**: Game design, graphics, menu/endgame, question implementation
+- **Jonathan Yang**: Game design, graphics, menu/endgame, question implementation
 - **Alex McElhaney**: Puzzle game logic, physics/collision system, keyboard input handling
 
 ### Asset Attribution
