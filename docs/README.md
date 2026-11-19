@@ -150,9 +150,8 @@ The main game follows this structure:
 ## Development Notes
 
 ### Created by
-- **Jonathan Yang**: Game design, graphics, menu/endgame, question implementation
-- **Alex McElhaney**: Puzzle game logic, physics/collision system, keyboard input handling
-
+- **Jonathan Yang**: Game design, graphics, menu/endgame, question implementation, keyboard and mouse inputs handling.
+- **Alex McElhaney**: Puzzle game logic, physics/collision system, keyboard inputs handling.
 ### Asset Attribution
 - Pixel art sprites: Custom creation with retro gaming aesthetic
 - Game engine framework: Custom MATLAB implementation
